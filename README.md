@@ -34,11 +34,11 @@ bheeshma-organics/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bheeshma-organics.git
+   https://github.com/SVRAGHAVVENDRA/Web-Dev.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd bheeshma-organics
+   cd Website
    ```
 3. Open index.html in your browser to view the website.
 
