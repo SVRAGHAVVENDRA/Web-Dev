@@ -1,4 +1,4 @@
-# Web-Dev
+# Web-Dev(Current Ongoing)
 
 # Bheeshma Organics
 
@@ -34,7 +34,7 @@ bheeshma-organics/
 
 1. Clone the repository:
    ```bash
-   https://github.com/SVRAGHAVVENDRA/Web-Dev.git
+   git clone https://github.com/SVRAGHAVVENDRA/Web-Dev.git
    ```
 2. Navigate to the project directory:
    ```bash
